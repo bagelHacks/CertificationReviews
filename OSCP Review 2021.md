@@ -35,7 +35,7 @@ I slept for about 4 hours and spent the next day writing my report which ended u
 
 ### Results 
 
-Preparing for this test was one of the best choices for my career. Performing all of the different hacking techniques raised my technical understanding of cyber attacks. Working as a Cyber Defender, I would see different attacks and think "Oh I've done this one before". I think this test is good for anyone who can afford the time commitment. My knowledge working in the field helped, but I think even someone without any previous I.T. knowledge can ace this exam. With plenty of inexpensive learning options to choose from I am happy that this knowledge can be learned even without buying the exam. 
+I have grown tremendously from the start to finnish. I learned about so many different resources and sometime along the road I realized just how truly vast the field of CyberSecurity is. If you enjoy learning (like me), then this would certianly intensify your hunger. Performing all of the different hacking techniques raised my technical understanding of cyber attacks. Working as a Cyber Defender, I would see different attacks and think "Oh I've done this one before". I think this test is good for anyone who can afford the time commitment. My knowledge working in the field helped, but I think even someone without any previous I.T. knowledge can ace this exam. With plenty of inexpensive learning options to choose from I am happy that this knowledge can be learned even without buying the exam. 
 
 ### Resources
 
